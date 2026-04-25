@@ -5,7 +5,7 @@
 #include <cmath>
 
 
-// simple single qubit representation: |ψ⟩ = α|0⟩ + β|1⟩
+// simple single qubit representation
 struct Qubit {
     std::complex<double> alpha; // amplitude for |0>
     std::complex<double> beta;  // amplitude for |1>
