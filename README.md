@@ -3,10 +3,10 @@ A real-time C++ simulation that blends a classical random walk with a foundation
 
 This project visualizes a stochastic random walk on a 2D grid while integrating a simple single-qubit simulation using complex numbers and linear algebra.
 
-Each step:
+## Each step:
 
-A random walk updates position on the grid
-A quantum state evolves via a basic gate (Hadamard)
-The qubit’s probability amplitudes are mapped to color in real time
+### A random walk updates position on the grid
+### A quantum state evolves via a basic gate (Hadamard)
+### The qubit’s probability amplitudes are mapped to color in real time
 
 
