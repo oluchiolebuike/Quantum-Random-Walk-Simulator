@@ -3,3 +3,4 @@ A real-time C++ simulation that combines a classical random walk with a minimal 
 
 The project visualizes a stochastic process on a 2D grid while incorporating a simple single-qubit simulation based on complex numbers and linear algebra.
 
+Currently working on redesigning the visual using Rust :)
